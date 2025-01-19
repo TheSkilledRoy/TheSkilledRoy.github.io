@@ -1,0 +1,1 @@
+﻿Sizzlin' Tango	R	common	Sorcery	7	R	1R	Choose two target creatures. The first creature becomes goaded and the second must block if able this turn. When either creature dies this turn, create two Treasure tokens.			normal	GIXTRE		

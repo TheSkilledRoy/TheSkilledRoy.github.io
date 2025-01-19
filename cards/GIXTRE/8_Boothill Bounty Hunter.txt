@@ -1,0 +1,1 @@
+﻿Boothill, Bounty Hunter	BR	rare	Legendary Creature – Human Robot Rogue 	8	BR	BR	Whenever a non-token creature you control dies, create a tapped Treasure token.NEWLINE1BB: Destroy target creature. Spend only mana from Treasures to activate this ability.	1/3		normal	GIXTRE		

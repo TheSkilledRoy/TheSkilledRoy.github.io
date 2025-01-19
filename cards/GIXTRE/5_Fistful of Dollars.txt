@@ -1,0 +1,1 @@
+﻿Fistful of Dollars	R	uncommon	Instant	5	R	2R	Create a Treasure token. Deal damage to target creature or planeswalker equal the the number of Treasures you control.  			normal	GIXTRE		

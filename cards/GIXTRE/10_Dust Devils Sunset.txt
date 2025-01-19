@@ -1,0 +1,1 @@
+﻿Dust Devil's Sunset	BR	uncommon	Enchantment	10	BR	1BR	Whenever a non-token creature dies, if it dealt damage this turn, create a tapped Treasure token.NEWLINEBR3, Sacrifice this enchantment: Goad all creatures with power less than the number of Treasure tokens you control.			normal	GIXTRE		

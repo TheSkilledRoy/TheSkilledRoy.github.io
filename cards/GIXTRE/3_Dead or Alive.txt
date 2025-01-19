@@ -1,0 +1,1 @@
+﻿Dead or Alive	B	uncommon	Instant	3	B	1BB	Destroy target creature. If you controlled the creature, return it to the battlefield under your control and create a Treasure token.			normal	GIXTRE		

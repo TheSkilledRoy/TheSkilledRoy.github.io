@@ -1,0 +1,1 @@
+﻿Fan the Hammer	R	uncommon	Instant	4	R	1R	Fan the Hammer deals 3 to any target.NEWLINECashout – If mana from a Treasure was spent to cast this spell, Fan the Hammer deals an additional 1 damage to any target.			normal	GIXTRE		

@@ -1,0 +1,1 @@
+﻿Wanted Poster		uncommon	Artifact	11	C	2	At the beginning of your upkeep each turn, place a bounty counter on target creature.NEWLINECreatures with bounty counters must block if able.			normal	GIXTRE		

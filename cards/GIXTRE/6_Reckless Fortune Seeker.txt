@@ -1,0 +1,1 @@
+﻿Reckless Fortune Seeker	R	common	Creature – Human Rogue 	6	R	1R	This creature must attack if able.NEWLINEWhen this creature dies, deal 1 damage to any target and create a Treasure token. 	3/1		normal	GIXTRE		
